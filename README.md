@@ -3,9 +3,9 @@ list of email addresses to migrate.
 
 Credits and references:
 
- IMAPSync: https://imapsync.lamiral.info/ | https://github.com/imapsync/imapsync
- This script: Many thanks to Gemini for drafting the initial script and saving me a bunch of time.  You earned your monthly subscription.
- PHP:  Tested with PHP 8.x
+ * IMAPSync: https://imapsync.lamiral.info/ | https://github.com/imapsync/imapsync
+ * This script: Many thanks to Gemini for drafting the initial script and saving me a bunch of time.  You earned your monthly subscription.
+ * PHP:  Tested with PHP 8.x
 
 Usage:
 
